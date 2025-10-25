@@ -1,11 +1,9 @@
-# [neverfinished](https://t.me/neverfinishedbot) | about
+# [neverfinished](https://t.me/neverfinishedbot)
 
-**self discipline** telegram bot by _**digfusion**_
+discipline telegram bot
 
 • goal tracking
 
 • to do notes
-
-[digfusion](https://t.me/digfusion) • [digsupport](https://t.me/digsupport)
 
 > _digfusion 2025_
